@@ -77,4 +77,4 @@ export async function deleteUser(clerkId: string) {
     } catch (error) {
       handleError(error)
     }
-  }
+}
