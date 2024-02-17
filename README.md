@@ -118,6 +118,7 @@ Create Events: Users can effortlessly generate new events, providing essential d
 Read Events: Seamless access to a detailed view of all events, allowing users to explore event specifics, including descriptions, schedules, and related information.
 Update Events: Empowering users to modify event details dynamically, ensuring that event information remains accurate and up-to-date.
 Delete Events: A straightforward process for removing events from the system, giving administrators the ability to manage and curate the platform effectively.
+
 👉 Related Events: Smartly connects events that are related and displaying on the event details page, making it more engaging for users
 
 👉 Organized Events: Efficient organization of events, ensuring a structured and user-friendly display for the audience, i.e., showing events created by the user on the user profile
@@ -195,6 +196,7 @@ Open http://localhost:3000 in your browser to view the project.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🕸️ Snippets
+
 globals.css
 tailwind.config.ts
 Clerk webhook
@@ -206,6 +208,7 @@ event.action.ts
 order.action.ts
 orders/page.tsx
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Join EventsHub Today and Explore the World of Events!
 
